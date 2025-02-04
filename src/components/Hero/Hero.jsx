@@ -12,7 +12,7 @@ export const Hero = () => {
           Sou desenvolvedor backend com experência na construção de software robusto e eficaz,
           usando Java, SQL e outros Frameworks
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:contatosjoaocosta@gmail.com" className={styles.contactBtn}>
           Entre em Contato
         </a>
       </div>
