@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Sistema Hospitalar",
+      "imageSrc": "projects/project.png",
+      "description": "O objetivo do projeto é digitalizar e otimizar a gestão de pacientes, tornando o processo de registro e visualização de dados mais eficientes.",
+      "skills": ["Java", "MYSQL", "JBDC"],
+      "source": "https://github.com/s1ntos/hospital-system"
+    },
+    {
+      "title": "Cenaflix",
+      "imageSrc": "projects/project.png",
+      "description": "O objetivo do projeto é catalogar filmes, séries e outros conteúdos, visando melhorar a organização, segurança e acessibilidade das informações.",
+      "skills": ["MYSQL", "Java"],
+      "source": "https://github.com/s1ntos/Cenaflix-projeto-Java"
+    },
+    {
+      "title": "portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Este projeto é um portfólio digital desenvolvido para apresentar meus trabalhos, habilidades e experiência na área de desenvolvimento. A plataforma é responsiva e interativa, proporcionando uma navegação intuitiva e acessível.",
+      "skills": ["Javascript", "CSS", "HTML"],
+      "source": "https://github.com/s1ntos/reactportifolio"
+    }
+  ]
+  

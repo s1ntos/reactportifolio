@@ -1,0 +1,31 @@
+[
+    {
+      "title": "JAVA",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "MYSQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "GITGITHUB",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "HIBERNATE",
+      "imageSrc": "skills/hibernate_logo_icon_169034.png"
+    },
+    {
+      "title": "RAILWAY",
+      "imageSrc": "skills/logo-dark-removebg-preview.png"
+    },
+    {
+      "title": "SPRINGBOOT",
+      "imageSrc": "skills/spring-boot-logo.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
+  
