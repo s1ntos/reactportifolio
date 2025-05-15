@@ -7,17 +7,17 @@
     "source": "https://github.com/s1ntos/hospital-system"
   },
   {
-    "title": "Cenaflix",
+    "title": "APIREST",
     "imageSrc": "projects/project.png",
-    "description": "O objetivo do projeto é catalogar filmes, séries e outros conteúdos, visando melhorar a organização, segurança e acessibilidade das informações.",
-    "skills": ["MYSQL", "Java"],
-    "source": "https://github.com/s1ntos/Cenaflix-projeto-Java"
+    "description": "Uma API REST (Representational State Transfer) é uma interface de comunicação entre sistemas baseada no protocolo HTTP. Ela permite que aplicações troquem dados de forma simples, padronizada e eficiente, geralmente no formato JSON",
+    "skills": ["SPRINGBOOT", "Java"],
+    "source": "https://github.com/s1ntos/APIRest"
   },
   {
     "title": "portfolio",
     "imageSrc": "projects/project.png",
     "description": "Este projeto é um portfólio digital desenvolvido para apresentar meus trabalhos, habilidades e experiência na área de desenvolvimento. A plataforma é responsiva e interativa, proporcionando uma navegação intuitiva e acessível.",
-    "skills": ["Javascript", "CSS", "HTML"],
+    "skills": ["Javascript", "CSS", "react"],
     "source": "https://github.com/s1ntos/reactportifolio"
   }
 ]
