@@ -3,7 +3,7 @@
     "title": " Hospital-Management-API",
     "imageSrc": "projects/project.png",
     "description": "API RESTful desenvolvida em Java com Spring Boot para gerenciar operações essenciais de um sistema hospitalar. O projeto permite o cadastro, listagem e controle de entidades como pacientes, médicos e consultas, com regras de negócio aplicadas e arquitetura modular.",
-    "skills": ["Java", "MYSQL", "JBDC"],
+    "skills": ["Java", "MYSQL", "SPRINGBOOT"],
     "source": "https://github.com/s1ntos/Hospital-Management-API"
   },
   {
@@ -17,7 +17,7 @@
     "title": "Ambiente de Teste – API AbacatePay",
     "imageSrc": "projects/project.png",
     "description": "Este repositório foi criado como ambiente de testes para integração com a API do AbacatePay, um sistema de pagamento online. O projeto simula o processo de checkout, cadastro de cliente e emissão de cobranças, utilizando a API oficial do serviço em ambiente de desenvolvimento.",
-    "skills": ["Javascript", "CSS", "react"],
+    "skills": ["SPRINGBOOT", "JAVA", "HTML", "JAVASCRIPT"],
     "source": "https://github.com/s1ntos/Abacatepay"
   }
 ]
