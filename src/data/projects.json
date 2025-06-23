@@ -1,10 +1,10 @@
 [
   {
-    "title": "Sistema Hospitalar",
+    "title": " Hospital-Management-API",
     "imageSrc": "projects/project.png",
-    "description": "O objetivo do projeto é digitalizar e otimizar a gestão de pacientes, tornando o processo de registro e visualização de dados mais eficientes.",
+    "description": "API RESTful desenvolvida em Java com Spring Boot para gerenciar operações essenciais de um sistema hospitalar. O projeto permite o cadastro, listagem e controle de entidades como pacientes, médicos e consultas, com regras de negócio aplicadas e arquitetura modular.",
     "skills": ["Java", "MYSQL", "JBDC"],
-    "source": "https://github.com/s1ntos/hospital-system"
+    "source": "https://github.com/s1ntos/Hospital-Management-API"
   },
   {
     "title": "APIREST",
@@ -14,10 +14,10 @@
     "source": "https://github.com/s1ntos/APIRest"
   },
   {
-    "title": "portfolio",
+    "title": "Ambiente de Teste – API AbacatePay",
     "imageSrc": "projects/project.png",
-    "description": "Este projeto é um portfólio digital desenvolvido para apresentar meus trabalhos, habilidades e experiência na área de desenvolvimento. A plataforma é responsiva e interativa, proporcionando uma navegação intuitiva e acessível.",
+    "description": "Este repositório foi criado como ambiente de testes para integração com a API do AbacatePay, um sistema de pagamento online. O projeto simula o processo de checkout, cadastro de cliente e emissão de cobranças, utilizando a API oficial do serviço em ambiente de desenvolvimento.",
     "skills": ["Javascript", "CSS", "react"],
-    "source": "https://github.com/s1ntos/reactportifolio"
+    "source": "https://github.com/s1ntos/Abacatepay"
   }
 ]
