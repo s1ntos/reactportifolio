@@ -12,19 +12,19 @@
     "imageSrc": "skills/github.png"
   },
   {
-    "title": "HIBERNATE",
-    "imageSrc": "skills/hibernate_logo_icon_169034.png"
+    "title": "JWT",
+    "imageSrc": "skills/jwt.png"
   },
   {
-    "title": "RAILWAY",
-    "imageSrc": "skills/logo-dark-removebg-preview.png"
+    "title": "AWS",
+    "imageSrc": "skills/Amazon_Web_Services_Logo.svg.png"
   },
   {
     "title": "SPRINGBOOT",
     "imageSrc": "skills/spring-boot-logo.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Insomnia",
+    "imageSrc": "skills/insomnia.png"
   }
 ]
