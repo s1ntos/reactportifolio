@@ -28,16 +28,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                Desenvolvimento de sistemas backend otimizados com APIs e Frameworks
+                Criação de APIs RESTful e desenvolvimento de sistemas robustos com foco em performance, segurança e escalabilidade, utilizando frameworks modernos.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>UDevOps Essentials</h3>
               <p>
-                Projetei algumas landing pages e criei sistemas de design 
+                Conhecimentos em deploy, containers (Docker), versionamento com Git e integração contínua.
               </p>
             </div>
           </li>
@@ -46,3 +46,4 @@ export const About = () => {
     </section>
   );
 };
+
