@@ -13,11 +13,11 @@
     "skills": ["SPRINGBOOT", "Java"],
     "source": "https://github.com/s1ntos/APIRest"
   },
-  {
-    "title": "Ambiente de Teste – API AbacatePay",
+ {
+    "title": "Spring_security",
     "imageSrc": "projects/project.png",
-    "description": "Este repositório foi criado como ambiente de testes para integração com a API do AbacatePay, um sistema de pagamento online. O projeto simula o processo de checkout, cadastro de cliente e emissão de cobranças, utilizando a API oficial do serviço em ambiente de desenvolvimento.",
-    "skills": ["SPRINGBOOT", "JAVA", "HTML", "JAVASCRIPT"],
-    "source": "https://github.com/s1ntos/Abacatepay"
+    "description": "Sistema backend desenvolvido com Java + Spring Boot, implementando autenticação baseada em JSON Web Token (JWT). O projeto oferece rotas protegidas, controle de acesso por perfis e segurança no gerenciamento de sessões.",
+    "skills": ["SPRINGBOOT", "JAVA", "HTML", "AWS", "MySQL", "Insomnia"],
+    "source": "https://github.com/s1ntos/Spring_security"
   }
 ]
